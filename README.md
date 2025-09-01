@@ -215,6 +215,10 @@ Run tests with coverage:
 fvm flutter test --coverage
 ```
 
+## Download APK
+
+Download the latest Android APK: [Event Album APK](https://drive.google.com/file/d/1S2NrdUFBKU5jfb4PLoYiAxwqSCyoTbh8/view?usp=sharing)
+
 ## Build and Deployment
 
 ### Android
