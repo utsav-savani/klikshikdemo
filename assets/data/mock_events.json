@@ -1,0 +1,203 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "name": "Summer Music Festival 2024",
+      "albumThumbnail": "https://picsum.photos/seed/event1/400/300",
+      "date": "2024-07-15",
+      "location": "Central Park",
+      "photos": [
+        {
+          "id": "p1",
+          "url": "https://picsum.photos/seed/photo1/800/600",
+          "thumbnailUrl": "https://picsum.photos/seed/photo1/200/150",
+          "caption": "Opening ceremony",
+          "isLiked": false
+        },
+        {
+          "id": "p2",
+          "url": "https://picsum.photos/seed/photo2/800/600",
+          "thumbnailUrl": "https://picsum.photos/seed/photo2/200/150",
+          "caption": "Main stage performance",
+          "isLiked": false
+        },
+        {
+          "id": "p3",
+          "url": "https://picsum.photos/seed/photo3/800/600",
+          "thumbnailUrl": "https://picsum.photos/seed/photo3/200/150",
+          "caption": "Crowd enjoying the music",
+          "isLiked": false
+        },
+        {
+          "id": "p4",
+          "url": "https://picsum.photos/seed/photo4/800/600",
+          "thumbnailUrl": "https://picsum.photos/seed/photo4/200/150",
+          "caption": "Artist meet and greet",
+          "isLiked": false
+        },
+        {
+          "id": "p5",
+          "url": "https://picsum.photos/seed/photo5/800/600",
+          "thumbnailUrl": "https://picsum.photos/seed/photo5/200/150",
+          "caption": "Sunset performance",
+          "isLiked": false
+        },
+        {
+          "id": "p6",
+          "url": "https://picsum.photos/seed/photo6/800/600",
+          "thumbnailUrl": "https://picsum.photos/seed/photo6/200/150",
+          "caption": "Food festival area",
+          "isLiked": false
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Tech Conference 2024",
+      "albumThumbnail": "https://picsum.photos/seed/event2/400/300",
+      "date": "2024-09-20",
+      "location": "Convention Center",
+      "photos": [
+        {
+          "id": "p7",
+          "url": "https://picsum.photos/seed/photo7/800/600",
+          "thumbnailUrl": "https://picsum.photos/seed/photo7/200/150",
+          "caption": "Keynote speech",
+          "isLiked": false
+        },
+        {
+          "id": "p8",
+          "url": "https://picsum.photos/seed/photo8/800/600",
+          "thumbnailUrl": "https://picsum.photos/seed/photo8/200/150",
+          "caption": "Product demos",
+          "isLiked": false
+        },
+        {
+          "id": "p9",
+          "url": "https://picsum.photos/seed/photo9/800/600",
+          "thumbnailUrl": "https://picsum.photos/seed/photo9/200/150",
+          "caption": "Networking session",
+          "isLiked": false
+        },
+        {
+          "id": "p10",
+          "url": "https://picsum.photos/seed/photo10/800/600",
+          "thumbnailUrl": "https://picsum.photos/seed/photo10/200/150",
+          "caption": "Workshop in progress",
+          "isLiked": false
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Wedding Celebration",
+      "albumThumbnail": "https://picsum.photos/seed/event3/400/300",
+      "date": "2024-06-10",
+      "location": "Beach Resort",
+      "photos": [
+        {
+          "id": "p11",
+          "url": "https://picsum.photos/seed/photo11/800/600",
+          "thumbnailUrl": "https://picsum.photos/seed/photo11/200/150",
+          "caption": "Ceremony setup",
+          "isLiked": false
+        },
+        {
+          "id": "p12",
+          "url": "https://picsum.photos/seed/photo12/800/600",
+          "thumbnailUrl": "https://picsum.photos/seed/photo12/200/150",
+          "caption": "First dance",
+          "isLiked": false
+        },
+        {
+          "id": "p13",
+          "url": "https://picsum.photos/seed/photo13/800/600",
+          "thumbnailUrl": "https://picsum.photos/seed/photo13/200/150",
+          "caption": "Family portrait",
+          "isLiked": false
+        },
+        {
+          "id": "p14",
+          "url": "https://picsum.photos/seed/photo14/800/600",
+          "thumbnailUrl": "https://picsum.photos/seed/photo14/200/150",
+          "caption": "Reception party",
+          "isLiked": false
+        },
+        {
+          "id": "p15",
+          "url": "https://picsum.photos/seed/photo15/800/600",
+          "thumbnailUrl": "https://picsum.photos/seed/photo15/200/150",
+          "caption": "Cake cutting",
+          "isLiked": false
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Sports Championship Finals",
+      "albumThumbnail": "https://picsum.photos/seed/event4/400/300",
+      "date": "2024-11-05",
+      "location": "National Stadium",
+      "photos": [
+        {
+          "id": "p16",
+          "url": "https://picsum.photos/seed/photo16/800/600",
+          "thumbnailUrl": "https://picsum.photos/seed/photo16/200/150",
+          "caption": "Opening ceremony",
+          "isLiked": false
+        },
+        {
+          "id": "p17",
+          "url": "https://picsum.photos/seed/photo17/800/600",
+          "thumbnailUrl": "https://picsum.photos/seed/photo17/200/150",
+          "caption": "Winning moment",
+          "isLiked": false
+        },
+        {
+          "id": "p18",
+          "url": "https://picsum.photos/seed/photo18/800/600",
+          "thumbnailUrl": "https://picsum.photos/seed/photo18/200/150",
+          "caption": "Trophy presentation",
+          "isLiked": false
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Art Gallery Opening",
+      "albumThumbnail": "https://picsum.photos/seed/event5/400/300",
+      "date": "2024-08-25",
+      "location": "Downtown Gallery",
+      "photos": [
+        {
+          "id": "p19",
+          "url": "https://picsum.photos/seed/photo19/800/600",
+          "thumbnailUrl": "https://picsum.photos/seed/photo19/200/150",
+          "caption": "Exhibition entrance",
+          "isLiked": false
+        },
+        {
+          "id": "p20",
+          "url": "https://picsum.photos/seed/photo20/800/600",
+          "thumbnailUrl": "https://picsum.photos/seed/photo20/200/150",
+          "caption": "Featured artwork",
+          "isLiked": false
+        },
+        {
+          "id": "p21",
+          "url": "https://picsum.photos/seed/photo21/800/600",
+          "thumbnailUrl": "https://picsum.photos/seed/photo21/200/150",
+          "caption": "Artist talk",
+          "isLiked": false
+        },
+        {
+          "id": "p22",
+          "url": "https://picsum.photos/seed/photo22/800/600",
+          "thumbnailUrl": "https://picsum.photos/seed/photo22/200/150",
+          "caption": "Gallery visitors",
+          "isLiked": false
+        }
+      ]
+    }
+  ]
+}
