@@ -12,14 +12,14 @@ A Flutter application for viewing and managing event photo albums with Google au
 ### Event Management
 - **Event List Screen**: Scrollable list of events with thumbnails
 - **Pull-to-Refresh**: Refresh event list with swipe gesture
-- **Event Details**: Display event name, location, date, and photo count
-- **Error Handling**: Comprehensive error states with retry functionality
+- **Event Details**: Display event name and thumbnail (location, date, photo count commented out)
+- **Error Handling**: Error states with retry functionality
 
 ### Photo Album Features
-- **Grid View**: 3-column photo grid for each event album
+- **Grid View**: 6-column photo grid for each event album
 - **Photo Viewer**: Full-screen photo viewing with pinch-to-zoom
-- **Like Functionality**: Double-tap or button to like/unlike photos
-- **Photo Navigation**: Swipe or use arrow buttons to navigate between photos
+- **Like Functionality**: Button to like/unlike photos (with haptic feedback)
+- **Photo Navigation**: Swipe or arrow buttons to navigate between photos
 - **Photo Information**: Display photo captions and like status
 
 ### Bonus Features
@@ -171,26 +171,24 @@ The app uses local JSON data to simulate API responses. The mock data is stored 
 - **Constants**: App-wide constants for spacing, durations, and sizes
 
 ### Performance Optimizations
-- Image caching for offline viewing
-- Lazy loading with pagination support ready
+- Image caching with cached_network_image
 - Hero animations for smooth transitions
 - Efficient grid rendering with builder pattern
 - Memory management with proper disposal
 
 ### Error Handling
-- Network error handling with retry mechanism
+- Network error handling with retry button
 - Loading states for all async operations
 - User-friendly error messages
 - Graceful fallbacks for image loading failures
-- Comprehensive exception handling
+- Basic exception handling in providers
 
 ### UI/UX Considerations
-- Material Design 3 theming with system theme detection
-- Responsive layouts for different screen sizes
+- Material Design 3 theming
 - Intuitive gestures (swipe, pinch, tap)
-- Visual feedback for user actions
+- Visual feedback for user actions (haptic feedback, snackbars)
 - Smooth animations and transitions
-- Accessibility considerations
+- Auto-hiding controls in photo viewer
 
 ## Future Enhancements
 
